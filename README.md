@@ -2,6 +2,7 @@
 JAVA Programs - Beginner level
 
 Here you can find my simple Java programs for understanding following concepts,
+
   --> Variables and Datatypes
   --> Get user inputs in Java
   --> Operators 
