@@ -3,12 +3,12 @@ JAVA Programs - Beginner level
 
 Here you can find my simple Java programs for understanding following concepts,
 
-  --> Variables and Datatypes
-  --> Get user inputs in Java
-  --> Operators 
-  --> if , if else , nested if
-  --> Ternary operator 
-  --> For loops , nested for loops
-  --> while, do while loops
-  --> Arrays
+  --> Variables and Datatypes <br/>
+  --> Get user inputs in Java <br/>
+  --> Operators <br/>
+  --> if , if else , nested if <br/>
+  --> Ternary operator <br/>
+  --> For loops , nested for loops <br/>
+  --> while, do while loops <br/>
+  --> Arrays <br/>
   
