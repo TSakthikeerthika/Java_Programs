@@ -1,7 +1,7 @@
 # Learn-Java
 JAVA Programs - Beginner level
 
-Here you can find my simple Java programs for understanding following concepts,
+Here you can find some very basic Java programs on,
 
   --> Variables and Datatypes <br/>
   --> Get user inputs in Java <br/>
@@ -11,4 +11,6 @@ Here you can find my simple Java programs for understanding following concepts,
   --> For loops , nested for loops <br/>
   --> while, do while loops <br/>
   --> Arrays <br/>
+
+  I think it may help you to understand the basic syntax, concepts of Java Programming in easy manner.
   
